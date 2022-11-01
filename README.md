@@ -91,5 +91,3 @@
 ## 📝 PROJECT REPOSITORY
 > [Gitlab](https://lab.hanium.or.kr/22_HF149/22_hf149.git)
 </br>
-
-## 💾 완성물 접근 경로 및 실행 방법
